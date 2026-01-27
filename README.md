@@ -141,7 +141,7 @@ MIT License — Knowledge wants to be free.
 
 ## 👥 Credits
 
-**Created by:** Rafa (R. A. L)github.com/tretoef-estrella
+**Created by:** Rafa** github.com/tretoef-estrella
 **Co-designed with:** Claude (Anthropic)  
 **Date:** January 2026
 
